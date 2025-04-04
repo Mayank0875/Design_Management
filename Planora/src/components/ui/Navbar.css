@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1em;
+}
+
+.navbar a{
+    color: #FFFFFF;
+    text-decoration: none; /* Removes underline */
+    cursor: pointer;
+}
+
